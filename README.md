@@ -23,3 +23,15 @@ Who Is It For?
 Perfect for anyone looking to automate repetitive typing tasks without drawing attention. Whether you’re transcribing notes, filling out forms, or simply tired of manual retyping, Screen Typer Bot is your go-to solution!
 
 Press L Shift to start, and let the magic happen!
+
+Usage :
+
+Just clone this repository and run it with python3 screentyper.py
+
+make sure u install the neccessary requirements give below;
+
+pip3 install pytesseract pynput pillow pyautogui --break-system-packages
+
+
+
+
